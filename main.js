@@ -75,6 +75,8 @@ var sentences_phrases = [
     "Context", 
     "Federated", 
     "Distributed", 
+    "CMCC",
+    "End to end", 
     "AI", 
     "ML", 
     "*Fa finta di capire*", 
