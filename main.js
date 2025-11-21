@@ -100,6 +100,11 @@ var sentences_phrases = [
     "Mh ok", 
     "Ne parliamo con...", 
     "Chiede una cosa per 10 volte", 
+    "Planning", 
+    "Salto di qualità", 
+    "Deadline", 
+    "Vabbene", 
+    "Tesisti", 
 ]; 
 
 
