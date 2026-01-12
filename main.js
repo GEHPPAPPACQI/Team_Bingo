@@ -68,6 +68,7 @@ var sentences_phrases = [
     "3-4 slide",
     "Una slide massimo",
     "Provenance", 
+    "Strong", 
     "Blockchain",
     "Use case", 
     "Use cases",
