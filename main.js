@@ -106,6 +106,14 @@ var sentences_phrases = [
     "Deadline", 
     "Vabbene", 
     "Tesisti", 
+    "Metriche",
+    "Vision",
+    "Agentic",
+    "Testbed",
+    "Benchmark",
+    "Infrastruttura",
+    "Paper esteso",
+    "Paper ristretto"
 ]; 
 
 
