@@ -113,7 +113,15 @@ var sentences_phrases = [
     "Benchmark",
     "Infrastruttura",
     "Paper esteso",
-    "Paper ristretto"
+    "Paper ristretto",
+    "Workload",
+    "PID",
+    "Explorer",
+    "EGI",
+    "Workflow",
+    "Digital Twin",
+    "Dare un contributo",
+    "Production ready"
 ]; 
 
 
